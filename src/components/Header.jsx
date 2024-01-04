@@ -16,7 +16,7 @@ const Header = () => {
         <img
           className="p-8 max-w-xs shadow-lg shadow-cyan-500
           sm:opacity-60"
-          src="/images/HeaderPerfil.jpg"
+          src="/images/Perfil_ctn.jpeg"
           alt=""
         />
       </div>
