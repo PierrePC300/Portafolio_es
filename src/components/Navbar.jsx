@@ -14,7 +14,7 @@ const Navbar = () => {
   return (
     <header className="fixed flex justify-between py-4 px-2 text-2xl text-white 
      bg-inherit items-center w-full  md:px-4 md:py-0 bg-gradient-to-r from-blue-950
-     via-sky-900 to-sky-600 opacity-90">
+     via-sky-900 to-sky-600 opacity-98 z-20">
         <h1 className="font-semibold capitalize px-4">Portafolio</h1>
 
         <i onClick={handleShowNav} className="bx bx-menu 
